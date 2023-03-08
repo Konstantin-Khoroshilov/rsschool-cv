@@ -46,25 +46,25 @@ return result;
 
 ## Study work experience
 - Landing page called "Learn to learn" created with HTML5, CSS, Flexbox Layout, CSS-animations, Git, BEM methodology.  
-https://github.com/Konstantin-Khoroshilov/how-to-learn
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/how-to-learn)
 
 - Landing page called "Russian travel". Here, in addition to the technologies mentioned earlier, non-standard fonts were used; adaptive layout according to layouts from Figma; media queries and grid layout.  
-https://github.com/Konstantin-Khoroshilov/russian-travel
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/russian-travel)
 
 - Landing page called "Mesto" that works with Javascript. The project is working with the DOM; event listeners were used; created "live" form validation; used an object-oriented approach and classes; configured interaction with the API;
 the code is divided into modules and assembled using Webpack; the babel, autoprefixer and cssnano plugins are additionally installed via npm.  
-https://github.com/Konstantin-Khoroshilov/mesto
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/mesto)
 
 - Application on React. Used functional components, hooks, work with the API.  
-https://github.com/Konstantin-Khoroshilov/mesto-react
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/mesto-react)
 
 - Application called "Mesto" on React + backend on Express + MongoDB database. Implemented registration, authorization, work with local storage, information about users and the cards they add is stored in the database. Frontend and backend communicate via REST API.    
-https://github.com/Konstantin-Khoroshilov/react-mesto-api-full
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/react-mesto-api-full)
 
 - Application called "Movies-Explorer": a service where you can find movies on demand and save them to your personal account. The frontend is built on React, makes REST API requests, implements registration, authorization, protects routes with authorization, validates data in forms, displays errors from the server, stores user data in a global state variable, and the token in localStorage, filters movies by user request , allows you to like and save movies.  
-https://github.com/Konstantin-Khoroshilov/movies-explorer-frontend  
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/movies-explorer-frontend)  
 The backend is built on Express and MongoDB. It handles routes to store and update user and movie data. Some routes are protected by authorization. Implemented logging, error handling, request validation, encrypted password storage, rights control.   
-https://github.com/Konstantin-Khoroshilov/movies-explorer-api
+[GitHub Link](https://github.com/Konstantin-Khoroshilov/movies-explorer-api)
 
 ## Education
 **PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS**  
