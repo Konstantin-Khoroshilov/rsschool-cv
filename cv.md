@@ -1,23 +1,23 @@
-# Константин Хорошилов
+# Konstantin Khoroshilov
 
-## Контактная информация
+## Contact information
 **Phone:** +7 977 8450755  
 **E-mail:** manly41142009@yandex.ru  
 **Github:** github.com/Konstantin-Khoroshilov  
 **Discord:** K (@Konstantin-Khoroshilov) 
 
-## Краткая информация
-Моя карьера началась и развивается в коммерческом банке. Работа в банке имеет массу преимуществ, однако я не считаю эту профессию своим призванием. 
+## Briefly About Myself:
+My career had started and continues in commercial bank. This work has many advantages, but I don't consider it as my vocation.
 
-Я начал интересоваться Frontend разработкой ещё до того, как это стало мейнстримом. Однажды мне стало интересно, кто такие хакеры, и можно ли стать одним из них. Исследовав несколько статей в интернете, я решил начать изучать программирование с HTML, CSS и JS. Разработка сайтов мне понравилась, потому что я сразу видел результат, написав лишь несколько строк кода. Мне нравилось что-то создавать, видеть, что мой код работает. Пройдя несколько бесплатных курсов в интернете я смог создать пару приложений, которые помогали мне в работе. Когда я показал приложения коллегам по работе, я получил много позитивной обратной связи. Коллеги посчитали приложения действительно полезными и тогда мне захотелось придумывать новые фичи, чтобы улучшать их. Когда я приступал к реализации новой функциональности, я испытывал воодушевление и работал с большим удовольствием.
+I have been interested in frontend development even before it became mainstream. I once asked myself about hackers. Who are hackers and how do people become hackers? After a little research on the Internet, I found an advise. One of the authors of the internet articles suggested to start coding with HTML, CSS and Javascript. This is where my journey begins. I really enjoyed designing web-sites because you only need a few lines of code to get visible results. It was nice to create something interesting and see how my code works. I have completed several free tutorials and then I made couple of applications for my bank job. When I demonstrated my applications to my colleagues I got good feedback. Colleagues said that my apps are really useful so I dicided to go ahead and add some features to improve them. I felt inspired every time I started writing code and worked with great pleasure.
 
-Вскоре я наткнулся на рекламу платного курса от платформы «Яндекс.Практикум». Авторы курса сообщали, что при успешном окончании курса можно будет устроиться на работу frontend разработчиком. Раз программирование мне так понравилось, я решил, что было бы замечательно расширить и систематизировать знания и начать зарабатывать любимым делом. Ожидания, возложенные на курс, были очень велики.
+Soon I saw information about training course from Yandex.Practicum. With this course, I could become junior frontend developer as the authors said. Since I like programming so much I thought  it is a good idea to get paid for it. Looks like I was expecting too much from  this course.
 
-Я успешно окончил курс, но, к сожалению, не смог найти работу в течение двух месяцев. Разочарованию не было предела. Мой энтузиазм и уверенность в себе сильно поубавились. Настолько, что я не занимался развитием в течение 2-х лет. 
+I had successfully completed the Web Development training course but couldn't find a job for two months. My enthusiasm and confidence gone. Disappointment knew no bounds. So much so that I haven't done development for two years.
 
-Все же я решил вернуться в разработку и пройти курс от RSS. Я знаю, что этот курс сложный. Но у меня есть опыт, навык усидчивости, терпение и любовь к программированию, поэтому я намерен пройти курс до конца и не останавливаться на этом.
+Nevertheless, I decided to return to development and take a course from RSS. I know this course is difficult. But I have experience, the skill of perseverance, patience and love for programming, so I intend to complete the course and not stop there.
 
-## Навыки
+## Skills and proficiency
 * HTML5, CSS3
 * JavaScript ES6
 * React
@@ -28,7 +28,7 @@
 * Figma
 * VS Code, WebStorm
 
-## Пример кода
+## Code example
 RGB To Hex Conversion
 
 ```javascript
@@ -44,32 +44,36 @@ return result;
 }
 ```
 
-## Опыт работы
-- вёрстка лендинга "Научиться учиться" с использованием семантических тегов из HTML5; построение сетки при помощи flex; CSS анимации; система контроля версий git. Именование сущностей и файловая структура по БЭМ. Ссылка: https://github.com/Konstantin-Khoroshilov/how-to-learn
+## Study work experience
+- Landing page called "Learn to learn" created with HTML5, CSS, Flexbox Layout, CSS-animations, Git, BEM methodology.  
+https://github.com/Konstantin-Khoroshilov/how-to-learn
 
-- вёрстка лендинга "Путешествия по России". Здесь, кроме упомянутых ранее технологий, использовались нестандартные шрифты; адаптивная вёрстка по макетам из Figma; медиа-запросы и grid layout.
-Ссылка: https://github.com/Konstantin-Khoroshilov/russian-travel
+- Landing page called "Russian travel". Here, in addition to the technologies mentioned earlier, non-standard fonts were used; adaptive layout according to layouts from Figma; media queries and grid layout.  
+https://github.com/Konstantin-Khoroshilov/russian-travel
 
-- вёрстка лендинга "Место" для работы с Javascript. В проекте велась работа с DOM; использовались слушатели событий; создана "живая" валидация форм; применялся объектно-ориентированный подход и классы; настроено взаимодействие с API;
-код разбит на модули и собран с помощью Webpack; через npm дополнительно установлены плагины babel, autoprefixer и cssnano.
-Ссылка: https://github.com/Konstantin-Khoroshilov/mesto
+- Landing page called "Mesto" that works with Javascript. The project is working with the DOM; event listeners were used; created "live" form validation; used an object-oriented approach and classes; configured interaction with the API;
+the code is divided into modules and assembled using Webpack; the babel, autoprefixer and cssnano plugins are additionally installed via npm.  
+https://github.com/Konstantin-Khoroshilov/mesto
 
-- приложение на React. Использовались функциональные компоненты, хуки, работа с API.
-Ссылка: https://github.com/Konstantin-Khoroshilov/mesto-react
+- Application on React. Used functional components, hooks, work with the API.  
+https://github.com/Konstantin-Khoroshilov/mesto-react
 
-- приложение под названием «Mesto» на React + бэкенд на Express + база данных MongoDB. Реализованы регистрация, авторизация, работа с локальным хранилищем, информация о пользователях и о карточках, которые они добавляют, сохраняется в базе данных. Фронтенд и бэкенд сообщаются по REST API.
-Ссылка: https://github.com/Konstantin-Khoroshilov/react-mesto-api-full
+- Application called "Mesto" on React + backend on Express + MongoDB database. Implemented registration, authorization, work with local storage, information about users and the cards they add is stored in the database. Frontend and backend communicate via REST API.    
+https://github.com/Konstantin-Khoroshilov/react-mesto-api-full
 
-- приложение под названием «Movies-Explorer»: сервис, в котором можно найти фильмы по запросу и сохранить в личном кабинете. Фронтенд построен на React, делает запросы к API по REST, реализует регистрацию, авторизацию, защищает роуты авторизацией, валидирует данные в формах, отображает ошибки от сервера, хранит данные пользователя в глобальной стейт-переменной, а токен в localStorage, фильтрует фильмы по запросу пользователя, позволяет поставить лайк и сохранить фильмы (https://github.com/Konstantin-Khoroshilov/movies-explorer-frontend). Бэкенд построен на Express и MongoDB. Он обрабатывает роуты для хранения и обновления данных пользователей и фильмов. Часть роутов защищена авторизацией. Реализовано логирование, обработка ошибок, валидация запросов, хранение пароля в зашифрованном виде, контроль прав. https://github.com/Konstantin-Khoroshilov/movies-explorer-api
+- Application called "Movies-Explorer": a service where you can find movies on demand and save them to your personal account. The frontend is built on React, makes REST API requests, implements registration, authorization, protects routes with authorization, validates data in forms, displays errors from the server, stores user data in a global state variable, and the token in localStorage, filters movies by user request , allows you to like and save movies.  
+https://github.com/Konstantin-Khoroshilov/movies-explorer-frontend  
+The backend is built on Express and MongoDB. It handles routes to store and update user and movie data. Some routes are protected by authorization. Implemented logging, error handling, request validation, encrypted password storage, rights control.   
+https://github.com/Konstantin-Khoroshilov/movies-explorer-api
 
-## Образование
-Федеральное государственное бюджетное образовательное учреждение высшего образования «Российский экономический университет имени Г.В. Плеханова»
-Факультет дистанционного обучения, Экономика. Банковское дело.
+## Education
+**PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS**  
+Bachelor's degree in economics
 
-АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ "ШКОЛА АНАЛИЗА ДАННЫХ"
-Веб-разработчик
+**Independent non-profit organization of continuing professional education "School of data analysis" (Yandex.Practicum)**  
+The Web Development training course as offered by Yandex.Practicum (560 hours)
 
-## Английский язык
-Уровень А2
-Изучал Английский язык в школе и в университете.
-Практиковал английский язык на работе, когда общался с клиентами – представителями международных компаний по вопросам, связанным с обслуживанием организаций в банке.
+## English language
+Level A2   
+Studied English at school and university.    
+I practiced English at work when I communicated with clients - representatives of international companies on issues related to servicing organizations in a bank.
