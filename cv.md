@@ -1,6 +1,8 @@
 
 # Konstantin Khoroshilov
 
+![Konstantin's photo](./photo.jpg)
+
 ## Contact information
 **Phone:** +7 977 8450755  
 **E-mail:** manly41142009@yandex.ru  
