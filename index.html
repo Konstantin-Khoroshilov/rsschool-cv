@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Konstantin Khoroshilov's CV</title>
-  <link rel="stylesheet" href="./index.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 
 <body class="page">
@@ -78,15 +78,9 @@
       <h3 class="main-text">RGB To Hex Conversion</h3>
       <pre>
         <code class="code-example">
-function rgb (r, g, b) {
-  let result = '';
-  const hexNumerals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F'];
-  Array.from(arguments).forEach(argument => {
-    argument = argument &gt; 255 ? 255 : argument;
-    argument = argument &lt; 0 ? 0 : argument;
-    result += `${hexNumerals[Math.floor(argument / 16)]}${hexNumerals[Math.floor(argument % 16)]}`;
-  });
-  return result;
+function rgb(r, g, b) {
+  const getHexStr = (value) => value.toString(16).padStart(2, '0');
+  return `#${getHexStr(r)}${getHexStr(g)}${getHexStr(b)}`;
 }
         </code>
       </pre>
